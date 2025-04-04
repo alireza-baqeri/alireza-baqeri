@@ -1,10 +1,8 @@
-| Hi! I'm Alireza Bagheri
 
-توسعه‌دهنده فرانت‌اند با علاقه به ساخت رابط‌های کاربری جذاب و کاربردی.  
-A Front-End Developer passionate about crafting engaging and functional UIs.
+A Front-End Developer
 
 ## 🚀 مهارت‌ها | Skills
-- **زبان‌ها | Languages:** HTML, CSS, JavaScript
+JS,Bootstrap,CSS,HTML,Tailwind CSS
 - **فریم‌ورک‌ها | Frameworks:** React, Tailwind CSS
 - **ابزارها | Tools:** Git, VS Code, Figma
 - **علایق | Interests:** UI/UX, Web Performance, Open Source
@@ -13,7 +11,7 @@ A Front-End Developer passionate about crafting engaging and functional UIs.
 - **[Interactive To-Do List](https://github.com/alireza-baqeri/todo-list)**: یه لیست کارهای تعاملی با انیمیشن، دوزبانه و قابلیت Drag-and-Drop.
 
 
-## 📊 آمار گیت‌هاب | GitHub Stats
+## 📊 GitHub Stats
 ![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-baqeri&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-baqeri&layout=compact&theme=radical)
 
