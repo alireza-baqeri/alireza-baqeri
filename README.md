@@ -1,4 +1,4 @@
-# 👋 سلام! من علیرضا باقری هستم | Hi! I'm Alireza Bagheri
+| Hi! I'm Alireza Bagheri
 
 توسعه‌دهنده فرانت‌اند با علاقه به ساخت رابط‌های کاربری جذاب و کاربردی.  
 A Front-End Developer passionate about crafting engaging and functional UIs.
@@ -11,7 +11,7 @@ A Front-End Developer passionate about crafting engaging and functional UIs.
 
 ## 🌟 پروژه‌های برجسته | Featured Projects
 - **[Interactive To-Do List](https://github.com/alireza-baqeri/todo-list)**: یه لیست کارهای تعاملی با انیمیشن، دوزبانه و قابلیت Drag-and-Drop.
-- (پروژه بعدی رو اینجا اضافه کن!)
+
 
 ## 📊 آمار گیت‌هاب | GitHub Stats
 ![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-baqeri&show_icons=true&theme=radical)
