@@ -11,8 +11,8 @@ JS,Bootstrap,CSS,HTML,Tailwind CSS
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-baqeri&layout=compact&theme=radical)
 /G\
 ## 📫 Connect with Me
-- [لینکدین | LinkedIn](https://linkedin.com/in/alireza-bagheri-a585b0239)
-- [ایمیل | Email](mailto:alireza.bagheri@example.com)
+- [LinkedIn](https://linkedin.com/in/alireza-bagheri-a585b0239)
+- [Email](mailto:alirzabgh@gmail.com)
 
 ##  Favorite Quote
 > "Whether you think you can do it or you think you can't, you're right." - Henry Ford 
