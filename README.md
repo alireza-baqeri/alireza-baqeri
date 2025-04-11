@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi there, I'm Alireza 👋</h1>
+<h1 align="center">Hi there, I'm Alireza </h1>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alireza-bagheri&show_icons=true&theme=github_dark" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-bagheri&theme=github-dark" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-bagheri&layout=compact&theme=github_dark" /> </p>
 <p align="center">
   <em>Front-End Developer | JavaScript & React Enthusiast | Future ML Engineer</em>
 </p>
@@ -25,3 +26,11 @@ const Alireza = {
   learning: "Deepening JS knowledge & real-world projects",
   motto: `"Whether you think you can do it or you think you can't, you're right." - Henry Ford`
 }
+
+
+
+📧 alirzabgh@gmail.com
+
+💼 LinkedIn
+
+<p align="center"> <img src="https://raw.githubusercontent.com/alireza-bagheri/alireza-bagheri/main/wave.svg" width="100%" /> </p> <p align="center"> <strong>/G\</strong> </p> ```
