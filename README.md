@@ -25,7 +25,8 @@ const Alireza = {
   motto: `"Whether you think you can do it or you think you can't, you're right." - Henry Ford`
 }
 ```
-
+---
+https://raw.githubusercontent.com/alireza-baqeri/alireza-baqeri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
 ---
 
 ## 📊 GitHub Stats
