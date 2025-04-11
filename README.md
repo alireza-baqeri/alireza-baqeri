@@ -31,12 +31,12 @@ https://raw.githubusercontent.com/alireza-baqeri/alireza-baqeri/output/github-co
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza-baqeri&show_icons=true&theme=github_dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-baqeri&theme=github-dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-baqeri&layout=compact&theme=github_dark" />
+![github contribution grid snake animation](https://raw.githubusercontent.com/alireza-baqeri/alireza-baqeri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/alireza-baqeri/alireza-baqeri/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=alireza-baqeri">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/alireza-baqeri?style=flat&label=Stars&color=%23e3b341">
 </p>
 
 ---
