@@ -31,11 +31,11 @@ const Alireza = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza-bagheri&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alireza-baqeri&show_icons=true&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-bagheri&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-baqeri&theme=github-dark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-bagheri&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-baqeri&layout=compact&theme=github_dark" />
 </p>
 
 ---
