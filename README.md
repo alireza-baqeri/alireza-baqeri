@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+vision+into+code;Pushing+my+limits+every+day;Learning,+building,+evolving...,+Let's give it a try 🚀&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+vision+into+code;Pushing+my+limits+every+day;Learning,+building,+evolving...;Let's give it a try 🚀&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
