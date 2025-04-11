@@ -29,12 +29,6 @@ const Alireza = {
 
 ## 📊 GitHub Stats
 
-![github contribution grid snake animation](https://alireza-baqeri.github.io/alireza-baqeri/alireza-baqeri/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github contribution grid snake animation](https://alireza-baqeri.github.io/alireza-baqeri/alireza-baqeri/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
-
-
 
 <p>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=alireza-baqeri">
