@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Alireza 👋</h1>
+<h1 align="center">I'm Alireza 🍀</h1>
 
 <p align="center">
-  <em>Front-End Developer | JavaScript & React Enthusiast | Future ML Engineer</em>
+  <em>Front-End Developer | JavaScript & React | Enthusiast ML Engineer</em>
 </p>
 
 <p align="center">
@@ -50,5 +50,5 @@ const Alireza = {
 </p>
 
 <p align="center">
-  <strong>/G\</strong>
+  <i>/G\</i>
 </p>
