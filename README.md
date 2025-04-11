@@ -42,7 +42,7 @@ const Alireza = {
 
 ## 🔗 Connect with me
 
-- 📧 [alirzabgh@gmail.com](mailto:alirzabgh@gmail.com)
+- 📧 [Email](mailto:alirzabgh@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/alireza-bagheri-a585b0239)
 
 <p align="center">
