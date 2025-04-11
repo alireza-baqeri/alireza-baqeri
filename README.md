@@ -1,18 +1,27 @@
 
-Front-End Developer
+<h1 align="center">Hi there, I'm Alireza 👋</h1>
 
-JS,Bootstrap,CSS,HTML,Tailwind CSS
--  Frameworks:** React, Tailwind CSS
--  Tools:** Git, VS Code, Figma
--  Interests:** UI/UX, Web Performance, Open Source
+<p align="center">
+  <em>Front-End Developer | JavaScript & React Enthusiast | Future ML Engineer</em>
+</p>
 
-## 📊 GitHub Stats
-![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-baqeri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-baqeri&layout=compact&theme=radical)
-/G\
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/alireza-bagheri-a585b0239)
-- [Email](mailto:alirzabgh@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+vision+into+code;Pushing+my+limits+every+day;Learning,+building,+evolving...&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
 
-##  Favorite Quote
-> "Whether you think you can do it or you think you can't, you're right." - Henry Ford 
+---
+
+## 🚀 About Me
+
+```js
+const Alireza = {
+  code: ["JavaScript", "HTML", "CSS", "React", "Tailwind", "Bootstrap"],
+  tools: ["VS Code", "Git", "Figma", "Photoshop", "MySQL", "SSMS"],
+  goals: [
+    "Master React and Nuxt",
+    "Become an AI/ML specialist",
+    "Study abroad and collaborate globally"
+  ],
+  learning: "Deepening JS knowledge & real-world projects",
+  motto: `"Whether you think you can do it or you think you can't, you're right." - Henry Ford`
+}
