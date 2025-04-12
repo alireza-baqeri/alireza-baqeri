@@ -19,7 +19,6 @@ const Alireza = {
   goals: [
     "Master React and Nuxt",
     "Become an AI/ML specialist",
-    "Study abroad and collaborate globally"
   ],
   learning: "Deepening JS knowledge & real-world projects",
   motto: `"Whether you think you can do it or you think you can't, you're right." - Henry Ford`
