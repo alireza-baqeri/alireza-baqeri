@@ -14,8 +14,8 @@
 
 ```js
 const Alireza = {
-  code: ["JavaScript", "HTML", "CSS", "React", "Tailwind", "Bootstrap"],
-  tools: ["VS Code", "Git", "Figma", "Photoshop", "MySQL", "SSMS"],
+  code: ["JavaScript", "HTML", "CSS", "React", "Tailwind", "Bootstrap","SQL","SASS"],
+  tools: ["VS Code", "Git", "Figma", "Photoshop", "MS SQL server", "SSMS"],
   goals: [
     "Master React and Nuxt",
     "Become an AI/ML specialist",
