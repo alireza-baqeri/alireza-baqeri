@@ -46,5 +46,5 @@ const Alireza = {
 </p>
 
 <p align="center">
-  <em>/G\</em>
+  <bdo>/G\</bdo>
 </p>
