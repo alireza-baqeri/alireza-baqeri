@@ -48,3 +48,4 @@ const Alireza = {
 <p align="center">
   <bdo>/G\</bdo>
 </p>
+<strong>Success is undeniable, it is promised.</strong>
