@@ -2,7 +2,7 @@
   <img src="./logo.png" width="120" alt="Alireza's Logo" style="border-radius: 50%; border: 2px solid #0FB9CF;" />
   
   <h1>
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Alireza;Front-End+Engineer;JavaScript+%26+React+Specialist;ML+%26+AI+Enthusiast;Building+Scalable+UIs&center=true&width=500&height=50&color=0FB9CF&vCenter=true&size=28&weight=700" alt="Typing SVG" />
+    <img src="[https://readme-typing-svg.demolab.com/?lines=I'm+Alireza;Front-End+Engineer;JavaScript+%26+React+Specialist;ML+%26+AI+Enthusiast;Building+Scalable+UIs&center=true&width=500&height=50&color=0FB9CF&vCenter=true&size=28&weight=700](https://github.com/alireza-baqeri/alireza-baqeri/blob/main/Screenshot%202026-06-15%20033019.svg)" alt="Typing SVG" />
   </h1>
 
   <p>
