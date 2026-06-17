@@ -9,15 +9,13 @@
     <b>Engineering Seamless Web Experiences with an Analytical Edge</b>
   </p>
  <a href="https://linkedin.com/in/alireza-bagheri-a585b0239">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-45118F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-45118F?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" />
     </a>
     <a href="https://committers.top/iran">
       <img src="https://img.shields.io/badge/GitHub_Iran_Rank-Top_500-E95529?style=for-the-badge&logo=github&logoColor=white" alt="Iran Committer Rank" />
     </a>
 
-    
-   <a href="https://linkedin.com/in/alireza-bagheri-a585b0239">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+
 </a>
 </div>
 
