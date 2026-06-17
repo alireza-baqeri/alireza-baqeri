@@ -42,7 +42,7 @@ Beyond frontend logic, I have a deep-rooted passion for **Machine Learning** and
 <div align="center">
   <p><strong>Languages & Core Tech</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,py,react,redux&theme=dark&perline=8" />
   </a>
 </div>
 
@@ -51,7 +51,7 @@ Beyond frontend logic, I have a deep-rooted passion for **Machine Learning** and
 <div align="center">
   <p><strong>Tools & Architecture</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postgres,postman,nodejs,linux&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,sqlite,postman,nodejs,linux&theme=dark&perline=8" />
   </a>
 </div>
 
