@@ -10,12 +10,8 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/alireza-bagheri-a585b0239">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-45118F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://committers.top/iran">
-      <img src="https://img.shields.io/badge/GitHub_Iran_Rank-Top_500-E95529?style=for-the-badge&logo=github&logoColor=white" alt="Iran Committer Rank" />
-    </a>
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-45118F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-bagheri-a585b0239)
+[![Iran Rank](https://img.shields.io/badge/GitHub_Iran_Rank-Top_500-E95529?style=for-the-badge&logo=github&logoColor=white)](https://committers.top/iran)
   </p>
 </div>
 
