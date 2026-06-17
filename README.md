@@ -42,7 +42,7 @@ Beyond frontend logic, I have a deep-rooted passion for **Machine Learning** and
 <div align="center">
   <p><strong>Languages & Core Tech</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,py,react,redux&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,tailwind,bootstrap,py,less,wordpress&theme=dark&perline=8" />
   </a>
 </div>
 
